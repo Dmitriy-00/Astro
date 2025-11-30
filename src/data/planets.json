@@ -1,0 +1,9 @@
+[
+  { "name": "Солнце", "glyph": "☉", "speed": 1, "color": "#FFB347" },
+  { "name": "Луна", "glyph": "☾", "speed": 13, "color": "#9CD7FF" },
+  { "name": "Меркурий", "glyph": "☿", "speed": 4, "color": "#6EF6FF" },
+  { "name": "Венера", "glyph": "♀", "speed": 1.6, "color": "#FF9BD1" },
+  { "name": "Марс", "glyph": "♂", "speed": 0.8, "color": "#FF6B6B" },
+  { "name": "Юпитер", "glyph": "♃", "speed": 0.2, "color": "#C5A87A" },
+  { "name": "Сатурн", "glyph": "♄", "speed": 0.09, "color": "#B1B6C2" }
+]
